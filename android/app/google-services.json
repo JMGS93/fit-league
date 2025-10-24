@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1056138889641",
+    "project_id": "fit-league-nuevo",
+    "storage_bucket": "fit-league-nuevo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056138889641:android:b6fd6e30a2aac25cd31cb8",
+        "android_client_info": {
+          "package_name": "com.example.nuevo_proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDab_aNFzVX89pz2-aQPvVA4IrZxWBkf-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-5888493538069890~1827072621"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056138889641:android:0b93b59a96873a4ad31cb8",
+        "android_client_info": {
+          "package_name": "com.josegarciasegura.fitleague"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDab_aNFzVX89pz2-aQPvVA4IrZxWBkf-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
